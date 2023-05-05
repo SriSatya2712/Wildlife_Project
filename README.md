@@ -17,7 +17,7 @@ A wildlife website is an online platform that provides information about wildlif
 
 ## Features and Functionalities:
 
-- Interactive and responsive UI
+- Interactive and responsive UI.
 
 - Designed with web pages like Home, About, Servies, Chatbot and Contact.
 
