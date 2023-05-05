@@ -28,4 +28,10 @@ A wildlife website is an online platform that provides information and resources
 ## Screen Shots
 
 ## Hompage
+<img width="1248" alt="AboutUsPage" src="https://user-images.githubusercontent.com/124880313/236374000-9f830a24-7396-4d3a-8b47-fbf161233a18.png">
+
+
+## About Us
 <img width="1248" alt="Homepage" src="https://user-images.githubusercontent.com/124880313/236373610-9639cfc2-bb21-4478-b674-06ac2594b820.png">
+
+
