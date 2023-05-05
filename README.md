@@ -29,7 +29,7 @@ A wildlife website is an online platform that provides information about wildlif
 
 - Includes Chatbot for support and help.
 
-## Screenshots of the Webpages
+## Screenshots of the Webpages:
 
 ## Homepage
 
@@ -58,7 +58,7 @@ A wildlife website is an online platform that provides information about wildlif
 <img width="1168" alt="contactpage" src="https://user-images.githubusercontent.com/124880313/236375345-cc5a5747-cc0f-4d70-a460-1e909184ac7a.png">
 
 
-## Tech Stack
+## Tech Stack:
 - Azure
 - HTML
 - CSS
