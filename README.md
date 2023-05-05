@@ -1,4 +1,4 @@
-# Wildlive
+* * Wildlive
 
 A wildlife website is an online platform that provides information and resources about wildlife, their habitats, behaviors, and conservation efforts. It may feature articles, photos, videos, and interactive content that educate visitors about different species and their environments.
 
@@ -7,8 +7,8 @@ A wildlife website is an online platform that provides information and resources
 ## Project Demo Link - 
 
 ## Azure Technologies Used In Project:
--Static Web App
--Health Bot
+- Static Web App
+- Azure Bot Service
 
 
 ## Features and Functionalities:
