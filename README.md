@@ -11,7 +11,7 @@ A wildlife website is an online platform that provides information about wildlif
 
 ## Azure Technologies Used In Project:
 - Static Web App
-- Azure Bot Service
+- Health bot
 
 
 
