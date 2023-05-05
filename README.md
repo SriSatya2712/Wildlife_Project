@@ -2,13 +2,16 @@
 
 A wildlife website is an online platform that provides information and resources about wildlife, their habitats, behaviors, and conservation efforts. It may feature articles, photos, and interactive content that educate visitors about different species and their environments.
 
+
 ## Project Link - https://gentle-coast-084a31200.3.azurestaticapps.net/
 
 ## Project Demo Link - 
 
+
 ## Azure Technologies Used In Project:
 - Static Web App
 - Azure Bot Service
+
 
 
 ## Features and Functionalities:
@@ -31,9 +34,11 @@ A wildlife website is an online platform that provides information and resources
 
 <img width="1248" alt="Homepage" src="https://user-images.githubusercontent.com/124880313/236373610-9639cfc2-bb21-4478-b674-06ac2594b820.png">
 
+
 ## About Us
 
 <img width="1248" alt="AboutUsPage" src="https://user-images.githubusercontent.com/124880313/236374000-9f830a24-7396-4d3a-8b47-fbf161233a18.png">
+
 
 ## Services
 
@@ -41,13 +46,16 @@ A wildlife website is an online platform that provides information and resources
 
 <img width="1174" alt="Service2page" src="https://user-images.githubusercontent.com/124880313/236374725-fe62979e-59f0-4a71-aa1a-dd296d760c3d.png">
 
+
 ## Chatbot
 
 <img width="1238" alt="Chatbotpage" src="https://user-images.githubusercontent.com/124880313/236375034-b982d06c-6d7d-4c5b-a725-e9646e36df72.png">
 
+
 ## Contact Us
 
 <img width="1168" alt="contactpage" src="https://user-images.githubusercontent.com/124880313/236375345-cc5a5747-cc0f-4d70-a460-1e909184ac7a.png">
+
 
 ## Tech Stack
 - Azure
