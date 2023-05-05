@@ -1,7 +1,8 @@
 # Wildlive
 
-A wildlife website is an online platform that provides information and resources about wildlife, their habitats, behaviors, and conservation efforts. It may feature articles, photos, and interactive content that educate visitors about different species and their environments.
+A wildlife website is an online platform that provides information about wildlife, their habitats, behaviors, and conservation efforts. It features articles, photos, and interactive content that educate visitors about different species and their environments.
 
+### This web application has been developed for the accomplishment of Future Ready Talent Internship Program launched by Microsoft, Future Skill Prime, MS Learn, GitHub, and EY
 
 ## Project Link - https://gentle-coast-084a31200.3.azurestaticapps.net/
 
