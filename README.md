@@ -66,6 +66,9 @@ A wildlife website is an online platform that provides information about wildlif
 - Fonts
 - JQuery Pluggins (JavaScript)
 
+IDE: VS-Code.
+NOTE: Bot is deployed on Home page of the website.
+
 
 
 
